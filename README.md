@@ -1,67 +1,50 @@
-# Hi there, I'm Shahzaib Arif 👋
+# Hi there, I'm Shahzaib Arif! 👋
 
-### 🚀 Flutter Developer | Marketplace & On-Demand App Specialist
+### 📱 Flutter Developer | Marketplace & On-Demand Expert
 
-I build scalable, production-ready mobile applications using Flutter with clean architecture and high-performance UI.
+I am an enthusiastic **Flutter Developer** with **3+ years of experience** designing, developing, and maintaining cross-platform mobile applications. I specialize in building scalable, production-ready apps with a focus on clean architecture and high-performance UI.
 
-✔ 3+ Years Experience  
-✔ 5+ Apps Published  
-✔ Marketplace & Real-Time Systems Expert  
-✔ Clean Architecture & Advanced State Management  
+I have successfully published **5+ apps** on the Play Store and have strong expertise in advanced state management and backend integration.
 
 ---
 
-## 📊 GitHub Performance
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" height="170"/>
-</p>
+**Core Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
-</p>
+**State Management & Architecture**
+![Bloc](https://img.shields.io/badge/Bloc-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-%237F52FF.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-%234285F4.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
----
+**Backend & Services**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🛠 Tech Stack
-
-### 📱 Mobile
-Flutter • Dart • Android • iOS
-
-### 🏗 Architecture
-Bloc • Provider • GetX • Riverpod • Clean Architecture
-
-### ☁ Backend
-Firebase • Supabase • REST APIs • Google Cloud
-
-### 🗺 Maps & Location
-Google Maps • Mapbox
+**Maps & Location**
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 ---
 
-## 🚀 Highlight Projects
+### 🚀 Key Projects
 
-### 🏨 Hotel & Travel Platforms
-Real-time booking systems with map integration and secure payments.
+- **🏨 Hotel & Travel Solutions (Helia / Yenja):** Built comprehensive booking platforms featuring real-time room availability, interactive maps for location discovery, and secure payment gateway integrations.
 
-### 🎥 Video Streaming App
-YouTube-style platform with uploads, interactions & optimized buffering.
+- **🎥 Video Streaming Platform (OursTube):** Developed a YouTube-style streaming application supporting video uploads, user interactions (likes/comments), and optimized buffering, achieving 99% crash-free sessions.
 
-### 🚚 Logistics & Rider App
-Live tracking, navigation & route optimization using Mapbox.
+- **🚚 Logistics & Delivery (PJ Rider):** Created a rider app with Mapbox integration for real-time navigation, route optimization, and live location tracking.
 
 ---
 
-## 🎯 What I Focus On
-- Pixel-Perfect UI from Figma  
-- Scalable & Maintainable Codebases  
-- Performance Optimization  
-- Crash-Free Production Releases  
+### 🔭 Current Focus
+
+- 🎨 **Advanced UI/UX:** Implementing pixel-perfect designs from Figma and complex animations.
+- 🏗️ **Scalable Architecture:** Refining clean architecture patterns to ensure maintainable codebases for large-scale apps.
+- ⚡ **Performance:** Writing unit and widget tests to ensure app stability and speed.
 
 ---
 
-## 📫 Let's Connect
-💼 LinkedIn: https://www.linkedin.com/in/shahzaib-arif-flutter/  
-📧 Email: shahzaib.appdev@gmail.com  
-🌐 Portfolio: https://shahzaibarif-portfolio.webflow.io
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-arif-flutter/)
+- 📧 [Email me](mailto:shahzaib.appdev@gmail.com)
+- 🌐 [My Portfolio/Website](https://shahzaibarif-portfolio.webflow.io)
